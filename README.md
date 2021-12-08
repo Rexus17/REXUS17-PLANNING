@@ -2,4 +2,4 @@
 Repository for Planning the Futures: :)
 - Share Source Code about Web Developer & Mobile Developer
 - Collaboration with a lot of Expert
-- Learn more & Share Source Code about Artificial Intellegence (AI)
+- Learning more & Share Source Code about Artificial Intellegence (AI)
