@@ -6,6 +6,6 @@
 - Collaboration with a lot of Expert
 - Learning more & Share Source Code about Artificial Intellegence (AI)
 
-<p align="center">
-<img src="https://github.com/Rexus17/REXUS17-PLANNING/blob/master/cool-loading-animated-gif-10-unscreen.gif" width="100">
+<p align="right">
+<img src="https://github.com/Rexus17/REXUS17-PLANNING/blob/master/giphy-unscreen.gif" width="100">
 </p>
